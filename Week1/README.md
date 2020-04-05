@@ -1,0 +1,1 @@
+This week we will introduce competitive data science. We will learn about competitions' mechanics, the difference between competitions and a real life data science, hardware and software that people usually use in competitions. We will also briefly recap major ML models frequently used in competitions.
